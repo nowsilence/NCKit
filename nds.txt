@@ -1,0 +1,9 @@
+1、绝对坐标指的是经纬度坐标
+
+2、渲染使用弧度坐标
+
+isCoordShift 是否偏移过，true表示偏移过，即为绝对坐标
+
+
+
+  	BASIC_MAP_DISPLAY_BLKID 	= 10,
